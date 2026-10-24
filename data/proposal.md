@@ -1,6 +1,9 @@
 # Project Proposal
+
+**Economic shocks, cardiometabolic health and financial resilience: an integrated-care approach.**
+
 ## 1. Research Question
-Here
+Among adults in the 98 economies that fielded the Global Findex 2025 resilience module, can markers of economic shocks, indebtedness and cost-of-living pressure, financial worry, and formal and informal protection identify adults who are **financially fragile**? 
 ## 2. Dataset
 -Name: findex_microdata_2025
 -Source: World Bak
@@ -20,3 +23,5 @@ Leive, A., & Xu, K. (2008). Coping with out-of-pocket health payments: Empirical
 Lusardi, A., Schneider, D. J., & Tufano, P. (2011). Financially fragile households: Evidence and implications. *Brookings Papers on Economic Activity, 2011*(1), 83–134. https://doi.org/10.1353/eca.2011.0002
 
 World Bank. (2025). *The Global Findex Database 2025* (WLD_2024_FINDEX_v02_M) [Data set]. World Bank Microdata Library. https://doi.org/10.48529/bk9n-8r43
+
+*Financially fragile* means they cannot raise an emergency sum equal to 1/20 of gross national income (GNI) per capita within 30 days, or can do so only with great difficulty.
